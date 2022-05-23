@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWebApi", "TicTacToeWebApi\TicTacToeWebApi.csproj", "{AE72A03A-1406-499A-90AB-D889687AA3A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeService", "TicTacToeService\TicTacToeService.csproj", "{404A29C1-EA1C-49DB-A578-FD28953D8E83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeRepository", "TicTacToeRepository\TicTacToeRepository.csproj", "{0190DF99-BAC1-444E-B925-AC5540A8428A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86087FA3-8217-446B-888E-767E2EB0E703} = {86087FA3-8217-446B-888E-767E2EB0E703}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeDomain", "TicTacToeDomain\TicTacToeDomain.csproj", "{86087FA3-8217-446B-888E-767E2EB0E703}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeDTO", "TicTacToeDTO\TicTacToeDTO.csproj", "{635E58B1-B0AA-466D-AC9C-74903CDF26E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE72A03A-1406-499A-90AB-D889687AA3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE72A03A-1406-499A-90AB-D889687AA3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE72A03A-1406-499A-90AB-D889687AA3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE72A03A-1406-499A-90AB-D889687AA3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404A29C1-EA1C-49DB-A578-FD28953D8E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404A29C1-EA1C-49DB-A578-FD28953D8E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404A29C1-EA1C-49DB-A578-FD28953D8E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404A29C1-EA1C-49DB-A578-FD28953D8E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0190DF99-BAC1-444E-B925-AC5540A8428A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0190DF99-BAC1-444E-B925-AC5540A8428A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0190DF99-BAC1-444E-B925-AC5540A8428A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0190DF99-BAC1-444E-B925-AC5540A8428A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86087FA3-8217-446B-888E-767E2EB0E703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86087FA3-8217-446B-888E-767E2EB0E703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86087FA3-8217-446B-888E-767E2EB0E703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86087FA3-8217-446B-888E-767E2EB0E703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635E58B1-B0AA-466D-AC9C-74903CDF26E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635E58B1-B0AA-466D-AC9C-74903CDF26E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635E58B1-B0AA-466D-AC9C-74903CDF26E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635E58B1-B0AA-466D-AC9C-74903CDF26E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB9CBE20-A86D-41C7-BBFB-62BB465C0E3C}
+	EndGlobalSection
+EndGlobal

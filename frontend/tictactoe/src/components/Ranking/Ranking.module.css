@@ -1,0 +1,15 @@
+.myTable {
+    border: 2px solid #282c34;
+    width: 800px;
+    height: 200px;
+    background-color: aliceblue;
+    margin-bottom: 5%;
+  }
+    
+.myTh {
+    border-bottom: 1px solid #282c34;
+  }
+    
+.myTd {
+    text-align: center;
+  }

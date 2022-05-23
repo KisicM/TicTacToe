@@ -1,0 +1,18 @@
+.shape {
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding: 20px;
+    color: #282c34;
+    min-width: 350px;
+}
+
+.input {
+    border-radius: 15px;
+    padding: 5px;
+    border-color: #282c34;
+    margin-bottom: 5%;
+}
+
+label {
+    display: block;
+}

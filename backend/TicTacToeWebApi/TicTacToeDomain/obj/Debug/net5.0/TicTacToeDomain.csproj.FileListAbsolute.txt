@@ -1,0 +1,12 @@
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\bin\Debug\net5.0\TicTacToeDomain.deps.json
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\bin\Debug\net5.0\TicTacToeDomain.dll
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\bin\Debug\net5.0\ref\TicTacToeDomain.dll
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\bin\Debug\net5.0\TicTacToeDomain.pdb
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\obj\Debug\net5.0\TicTacToeDomain.csproj.AssemblyReference.cache
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\obj\Debug\net5.0\TicTacToeDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\obj\Debug\net5.0\TicTacToeDomain.AssemblyInfoInputs.cache
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\obj\Debug\net5.0\TicTacToeDomain.AssemblyInfo.cs
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\obj\Debug\net5.0\TicTacToeDomain.csproj.CoreCompileInputs.cache
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\obj\Debug\net5.0\TicTacToeDomain.dll
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\obj\Debug\net5.0\ref\TicTacToeDomain.dll
+C:\Users\Kisic\Documents\GitLab\tictactoe\backend\TicTacToeWebApi\TicTacToeDomain\obj\Debug\net5.0\TicTacToeDomain.pdb

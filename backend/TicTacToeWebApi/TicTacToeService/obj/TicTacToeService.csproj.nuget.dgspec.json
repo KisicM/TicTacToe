@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeService\\TicTacToeService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\TicTacToeDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\TicTacToeDomain.csproj",
+        "projectName": "TicTacToeDomain",
+        "projectPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\TicTacToeDomain.csproj",
+        "packagesPath": "C:\\Users\\Kisic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kisic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDTO\\TicTacToeDTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDTO\\TicTacToeDTO.csproj",
+        "projectName": "TicTacToeDTO",
+        "projectPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDTO\\TicTacToeDTO.csproj",
+        "packagesPath": "C:\\Users\\Kisic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kisic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\TicTacToeDomain.csproj": {
+                "projectPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\TicTacToeDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeRepository\\TicTacToeRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeRepository\\TicTacToeRepository.csproj",
+        "projectName": "TicTacToeRepository",
+        "projectPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeRepository\\TicTacToeRepository.csproj",
+        "packagesPath": "C:\\Users\\Kisic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kisic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\TicTacToeDomain.csproj": {
+                "projectPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\TicTacToeDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeService\\TicTacToeService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeService\\TicTacToeService.csproj",
+        "projectName": "TicTacToeService",
+        "projectPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeService\\TicTacToeService.csproj",
+        "packagesPath": "C:\\Users\\Kisic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kisic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\TicTacToeDomain.csproj": {
+                "projectPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDomain\\TicTacToeDomain.csproj"
+              },
+              "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDTO\\TicTacToeDTO.csproj": {
+                "projectPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeDTO\\TicTacToeDTO.csproj"
+              },
+              "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeRepository\\TicTacToeRepository.csproj": {
+                "projectPath": "C:\\Users\\Kisic\\Documents\\GitLab\\tictactoe\\backend\\TicTacToeWebApi\\TicTacToeRepository\\TicTacToeRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
